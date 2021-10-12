@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "ekdus"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "나는 멋진 사람"
   location         : "어딘가"
   email            : "21-20315@hafs.hs.kr"
